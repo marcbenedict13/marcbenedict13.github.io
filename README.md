@@ -1,13 +1,13 @@
- ### **My favorite OPM bands/artists**
+**My favorite OPM bands/artists**
 - *Itchyworms*
 
 *The Itchyworms is a Filipino rock band. The band is composed of Jazz Nicolas on drums, Jugs Jugueta on guitars, Kelvin Yu on bass guitars and Chino Singson on lead guitars. The group made their name in the OPM (Original Pilipino Music) scene in 2006 with their sophomore album, Noontime Show, with songs such as "Akin Ka Na Lang" and "Beer".*
 
 ![alt text](https://i.scdn.co/image/ab67616d0000b273014645a6d8fe0ccc45e1ffae)
 
-[akin ka nalang](<iframe width="560" height="315" src="https://www.youtube.com/embed/AMS5RgPZHkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AMS5RgPZHkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[beer](<iframe width="560" height="315" src="https://www.youtube.com/embed/Gw6NMsqBQcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gw6NMsqBQcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Eraserheads
 
@@ -15,9 +15,9 @@
 
 ![alt text](https://cdn.filestackcontent.com/KqJfQEoSla7lNZTXWmZw/convert?cache=true&crop=0%2C0%2C1920%2C960&crop_first=true&quality=90&w=1920)
 
-[huling el bimbo](<iframe width="560" height="315" src="https://www.youtube.com/embed/gJs7Dl3NSGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gJs7Dl3NSGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[with a smile](<iframe width="560" height="315" src="https://www.youtube.com/embed/0qaIVE9uwGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0qaIVE9uwGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Mayonnaise
 
@@ -25,9 +25,9 @@
 
 ![alt text](https://i.ytimg.com/vi/cbZY1A598pI/maxresdefault.jpg)
 
-[jopay](<iframe width="560" height="315" src="https://www.youtube.com/embed/IX6pZryBKQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IX6pZryBKQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[bakit part 2](<iframe width="560" height="315" src="https://www.youtube.com/embed/8vNC3Z-jgok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8vNC3Z-jgok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Arthur Nery 
 
@@ -35,6 +35,6 @@
 
 ![alt text](https://i.scdn.co/image/ab6761610000e5eb038f41387967c6b2d038bb78)
 
-[title](<iframe width="560" height="315" src="https://www.youtube.com/embed/KrRUxRCXpf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KrRUxRCXpf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[title](<iframe width="560" height="315" src="https://www.youtube.com/embed/ZqE0cyZ3ZAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZqE0cyZ3ZAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
